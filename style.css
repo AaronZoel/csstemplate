@@ -1,1 +1,11 @@
-
+#body{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px
+}
+    #tempChart {
+        height: 370px
+    }
+    #pressureChart {
+        height: 370px
+    }
